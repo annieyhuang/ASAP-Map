@@ -1,0 +1,9 @@
+{
+  "name": "ASAP Map",
+  "version": "1.0",
+  "description": "Enter a location and open a new Google Maps tab!",
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "manifest_version": 2
+}
