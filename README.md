@@ -31,4 +31,5 @@ the result of their search.
 
 # API Docs
 https://developers.google.com/maps/documentation/urls/get-started
+
 https://developers.google.com/places/web-service/place-id
